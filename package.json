@@ -1,0 +1,19 @@
+{
+  "name": "token-dmall",
+  "version": "1.0.0",
+  "description": "massdms to a specific token, in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "mkdirp": "^0.5.1",
+    "system-sleep": "^1.3.6"
+  }
+}
